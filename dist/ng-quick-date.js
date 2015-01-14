@@ -18,7 +18,7 @@
         disableTimepicker: false,
         disableClearButton: false,
         defaultTime: null,
-        dayAbbreviations: ["Su", "M", "Tu", "W", "Th", "F", "Sa"],
+        dayAbbreviations: ["S", "M", "T", "W", "T", "F", "S"],
         dateFilter: null,
         parseDateFunction: function(str) {
           var seconds;
